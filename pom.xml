@@ -41,6 +41,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                     <executable> /usr/lib/jvm/java-8-openjdk-amd64/bin/java</executable>
             </plugin>
         </plugins>
     </build>
